@@ -1181,6 +1181,7 @@ dependencies = [
  "common-exception",
  "common-io",
  "pretty_assertions",
+ "regex",
 ]
 
 [[package]]
